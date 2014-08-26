@@ -1,6 +1,6 @@
 <?php
 
-namespace: kostya/phpcave/cityproject;
+namespace: kostya/phpcave;
 
 class Flat {
         public $Gas=10.9;
